@@ -3,7 +3,7 @@
   
 ## Function  
  
-### convertToImages(): 
+### toImages(): 
 #### 동영상을 이미지로 변환해주는 함수.
 
 Args:
