@@ -2,6 +2,6 @@ tensorflow==2.2.0
 tensorflow-hub==0.6.0
 numpy==1.19.5
 pandas==1.2.4
-glob==0.7
+glob2==0.7
 natsort==7.1.1
 opencv-python==4.3.0.36
